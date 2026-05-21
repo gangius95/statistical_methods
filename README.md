@@ -11,7 +11,7 @@ All topics are presented through simple examples designed to illustrate the fund
 ## Resources
 [Statistics, Data Mining, and Machine Learning in Astronomy](https://press.princeton.edu/books/hardcover/9780691198309/statistics-data-mining-and-machine-learning-in-astronomy-pdf): Texbook with theory, examples, and code snippets in Python. Good if you want to learn by hands-on problems.
 
-[Jayne's book on Probability Theory](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf): Textbook on the foundations of the Bayesian interpretation of probability.
+[Jaynes' book on Probability Theory](https://bayes.wustl.edu/etj/prob/book.pdf): Textbook on the foundations of the Bayesian interpretation of probability.
 
 ## Lectures and notebooks
 
